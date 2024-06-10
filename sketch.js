@@ -39,7 +39,6 @@ function moveY() {
     y = height - 11
     vy = -vy * 0.999
   }
-  console.log(y, vy)
 }
 
 
